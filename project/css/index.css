@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+body{
+	width: 100%;
+	height: 100%;
+	background: #000;
+}
+h1{
+	color: #fff;
+	text-align: center;
+	line-height:80px;
+}
+canvas{
+	background: #000;
+}
+.bigborder{
+	width: 1000px;
+	height:500px;
+	/*background: gold;*/
+	position: absolute;
+	top:100px;
+	left: 180px;
+}
